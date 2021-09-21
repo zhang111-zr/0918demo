@@ -15,6 +15,7 @@ public class DemoApplication {
         System.out.println("hot test1");
         System.out.println("push test1");
         System.out.println("push test2");
+        System.out.println("push test3");
     }
 
 }
