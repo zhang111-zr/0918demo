@@ -13,6 +13,7 @@ public class DemoApplication {
         System.out.println("hello git3");
         System.out.println("master test");
         System.out.println("hot test1");
+        System.out.println("push test1");
     }
 
 }
